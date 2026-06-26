@@ -1,0 +1,10 @@
+[
+  {
+    "OfficerName": "James M Dean",
+    "TotalInspections": 142,
+    "AvgDurationSeconds": 22.4,
+    "FacilityAvgSeconds": 22.4,
+    "PercentVariance": 0.0,
+    "VarianceFlag": "WITHIN NORM"
+  }
+]

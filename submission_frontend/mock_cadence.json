@@ -1,0 +1,42 @@
+[
+  {
+    "LocationID": 101,
+    "LocationDescription": "Cell AB-001",
+    "OfficerName": "James M Dean",
+    "CheckTime": "2026-06-20T09:00:00",
+    "PreviousCheckTime": "2026-06-20T08:00:00",
+    "IntervalMinutes": 60,
+    "RequiredIntervalMinutes": 30,
+    "ComplianceStatus": "VIOLATION"
+  },
+  {
+    "LocationID": 101,
+    "LocationDescription": "Cell AB-001",
+    "OfficerName": "James M Dean",
+    "CheckTime": "2026-06-20T09:33:00",
+    "PreviousCheckTime": "2026-06-20T09:00:00",
+    "IntervalMinutes": 33,
+    "RequiredIntervalMinutes": 30,
+    "ComplianceStatus": "VIOLATION"
+  },
+  {
+    "LocationID": 101,
+    "LocationDescription": "Cell AB-001",
+    "OfficerName": "James M Dean",
+    "CheckTime": "2026-06-20T10:00:00",
+    "PreviousCheckTime": "2026-06-20T10:00:00",
+    "IntervalMinutes": 0,
+    "RequiredIntervalMinutes": 30,
+    "ComplianceStatus": "COMPLIANT"
+  },
+  {
+    "LocationID": 101,
+    "LocationDescription": "Cell AB-001",
+    "OfficerName": "James M Dean",
+    "CheckTime": "2026-06-20T10:14:00",
+    "PreviousCheckTime": "2026-06-20T10:15:00",
+    "IntervalMinutes": -1,
+    "RequiredIntervalMinutes": 30,
+    "ComplianceStatus": "COMPLIANT"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "LocationID": 101,
+    "LocationDescription": "Cell AB-001",
+    "ConsecutiveRefusals": 3,
+    "FirstRefusalDate": "2026-06-19T07:30:00",
+    "LastRefusalDate": "2026-06-20T07:30:00"
+  }
+]

@@ -30,26 +30,21 @@ To prevent unauthorized automatic data publication or actions on live backend re
 Follow these steps to run the interactive dashboard workspace locally:
 
 ### 1. Clone the Repository & Navigate
-\`\`\`bash
-git clone https://github.com/accessdenied7419/Multi-Agent-NCCHC-Verification-Pipeline.git
+`bash
+git clone [https://github.com/accessdenied7419/Multi-Agent-NCCHC-Verification-Pipeline.git](https://github.com/accessdenied7419/Multi-Agent-NCCHC-Verification-Pipeline.git)
 cd Multi-Agent-NCCHC-Verification-Pipeline
-\`\`\`
 
 ### 2. Install Dependencies
-\`\`\`bash
+'bash
 pip install fastapi uvicorn pydantic
-\`\`\`
 
 ### 3. Launch the Uvicorn Production Server
-\`\`\`bash
+`bash
 python3 -m uvicorn submission_frontend.main:app --host 0.0.0.0 --port 8080
-\`\`\`
 
 ### 4. Access the Interface
 Open your browser and navigate to:
-\`\`\`text
 http://localhost:8080
-\`\`\`
 
 ---
 
